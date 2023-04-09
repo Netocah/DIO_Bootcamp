@@ -1,1 +1,1 @@
-package classes;
+package com.sintaxe;
